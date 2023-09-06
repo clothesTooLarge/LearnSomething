@@ -15,7 +15,7 @@ let getVids = (term, callback) => {
 
   return axios(options);
 
-}l
+}
 
 module.exports.getVids = getVids;
 
